@@ -90,3 +90,44 @@ npm install
 npm start
 
 Depois disso, é só abrir o navegador e acessar http://localhost:3000.
+
+## 🤝 Como Contribuir
+
+Se você deseja sugerir melhorias, corrigir bugs ou adicionar novas funcionalidades, siga os passos abaixo:
+
+1. **Faça um fork** do repositório:
+   (https://github.com/Nelson-Lucas/crm-tracker)
+
+2. **Clone** o repositório forkado:
+   ```bash
+   git clone https://github.com/seu-usuario/crm-tracker.git
+Crie uma branch para sua contribuição:
+
+bash
+git checkout -b minha-contribuicao
+Realize os ajustes no código e depois os commits:
+
+bash
+git commit -m "Descrição clara da melhoria"
+Envie para seu repositório remoto:
+
+bash
+git push origin minha-contribuicao
+Abra um Pull Request explicando as mudanças propostas.
+
+Antes de começar, verifique se sua alteração está alinhada com os objetivos do projeto. Sinta-se livre para abrir uma issue se quiser discutir ideias antes de implementar!
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+
+Você pode:
+
+- Usar livremente o código
+- Modificar e adaptar conforme suas necessidades
+- Compartilhar com outras pessoas
+- Utilizar comercialmente
+
+**Aviso:** É necessário manter o aviso de copyright original ao redistribuir o projeto.
+
+
